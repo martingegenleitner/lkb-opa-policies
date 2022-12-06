@@ -1,0 +1,30 @@
+{
+    "acr": "1",
+    "aio": "ASQA2/8SAAAA5TSKD25WS7EI+DkHmONJmdm1JqfMVFZ/1NKz/NIJL+o=",
+    "amr": [
+        "pwd"
+    ],
+    "appid": "d3590ed6-52b3-4102-aeff-aad2292ab01c",
+    "appidacr": "0",
+    "cnf": {
+        "tbh": "D7yrh7LUPCkoWNxz5w2xQGwqC55UXPKm34h/yf25YcM="
+    },
+    "deviceid": "e23f65e5-75c0-4f82-a9f3-992d43151c7b",
+    "family_name": "larson",
+    "given_name": "brie",
+    "ipaddr": "202.122.134.254",
+    "issuer": "https://sts.windows.net/634df0ea-35a5-4d1d-9324-a02120a05640/",
+    "keyid": "d798b89933504f5ca6082eda37cb0ebd",
+    "keyname": "DKEKey1",
+    "name": "brie larson",
+    "oid": "dd618d7e-5347-4e45-bcd0-ea0274ee314c",
+    "pwd_exp": "3734193",
+    "pwd_url": "https://portal.microsoftonline.com/ChangePassword.aspx",
+    "rh": "0.AAAA6vBNY6U1HU2TJKAhIKBWQNYOWdOzUgJBrv-q0ikqsBwKAM0.",
+    "scp": "user_impersonation",
+    "tid": "634df0ea-35a5-4d1d-9324-a02120a05640",
+    "unique_name": "blarson@myorg.onmicrosoft.com",
+    "upn": "blarson@myorg.onmicrosoft.com",
+    "uti": "8vVbIdz6-kiYl0RXqPeaAA",
+    "ver": "1.0"
+}
