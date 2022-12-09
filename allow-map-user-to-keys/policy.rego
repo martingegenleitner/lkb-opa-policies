@@ -1,5 +1,4 @@
 package authz
-import future.keywords
 
 default allow = false
 
@@ -8,6 +7,6 @@ map := {"1234": ["abc@example.com",
         "5678": ["abc@example.com",
                  "ghi@example.com"]}
 
-allow if {
+allow {
     input.upn == map[input.keyid][_]
 }

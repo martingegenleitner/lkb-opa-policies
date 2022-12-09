@@ -1,5 +1,4 @@
 package authz
-import future.keywords
 
 # Default action is to deny access
 default allow = false
@@ -11,6 +10,6 @@ whitelist := [
 ]
 
 # Only grant access if input ip matches a cidr in the whitelist
-allow if {
+allow {
   net.cidr_contains(whitelist[_], input.ipaddr)
 }
